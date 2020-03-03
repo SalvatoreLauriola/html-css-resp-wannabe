@@ -89,3 +89,7 @@ img{
 #lezioni .row > .left, #lezioni .row > .right {
   width: 100%;
 }
+
+@media screen and (min-width: 420px) and  (max-width: 768px) {
+  
+}
